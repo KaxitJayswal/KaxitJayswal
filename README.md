@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaxit-jayswal/">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React.js+%7C+JavaScript+%7C+Tailwind+CSS;Looking+for+Internship+%2B+PPO+Opportunities" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;" />
   </a>
 </p>
 
