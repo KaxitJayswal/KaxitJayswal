@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kaxit Jayswal</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaxit-jayswal/">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello,+This+Is+Kaxit+Jayswal;MERN+Stack+Developer;" />
   </a>
 </p>
 
@@ -43,8 +42,8 @@
 
 ## 📌 Featured Projects  
 
-### Campus Connect 
-React, Tailwind CSS, Node.js, Express.js, MongoDB
+### 🎓 Campus Connect 
+_React, Tailwind CSS, Node.js, Express.js, MongoDB_
 - Developed a React-based web application for discovering and managing college events.
 - Implemented reusable components and hooks to manage state and UI logic efficiently.
 - Built role-based UI rendering for students and organizers using protected routes.
@@ -52,8 +51,8 @@ React, Tailwind CSS, Node.js, Express.js, MongoDB
 - Designed an admin dashboard with CRUD operations for event management.
 
 
-### Personal Portfolio 
-React, Vite, JavaScript
+### 💼 Personal Portfolio 
+_React, Vite, JavaScript_
 - Created a modern, single-page portfolio application using React and Vite.
 - Implemented component-based layout, smooth animations, and responsive design.
 - Optimized performance and ensured cross-device compatibility 
