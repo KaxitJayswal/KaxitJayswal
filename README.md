@@ -14,10 +14,7 @@
 
 ## 🚀 About Me  
 - 🎓 Final Year **B.Tech Computer Engineering Student**
-- 💻 Passionate about **Web Development & Full Stack Development**
-- 🌱 Currently learning **MERN Stack (Node.js, Express.js, MongoDB)**
-- 🔥 Strong in **React.js, JavaScript, Tailwind CSS**
-- 🎯 Looking for **Internship + PPO / Placement Opportunities**
+- 💻 Passionate about **Web Development**
 - 📍 Based in **Ahmedabad, Gujarat**
 
 ---
@@ -30,49 +27,36 @@
 - HTML5 / CSS3  
 - Tailwind CSS  
 
-### ⚙️ Backend  
+### ⚙️ Backend & Database
 - Node.js  
 - Express.js  
-- MongoDB  
-
-### ☁️ Database / Cloud  
+- MongoDB    
 - Firebase  
 - Supabase  
 
 ### 🔧 Tools  
 - Git & GitHub  
-- VS Code  
+- VS Code
+- Thunder Client
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🍽️ AnnaPurna (Food Donation Website)
-- Platform to minimize food waste by connecting donors and volunteers  
-- Tech: HTML, CSS, JavaScript, Firebase  
+### Campus Connect Live Demo
+React, Tailwind CSS, Node.js, Express.js, MongoDB
+• Developed a React-based web application for discovering and managing college events.
+• Implemented reusable components and hooks to manage state and UI logic efficiently.
+• Built role-based UI rendering for students and organizers using protected routes.
+• Integrated JWT-based authentication and REST APIs for secure data access.
+• Designed an admin dashboard with CRUD operations for event management.
 
-### 🎓 Classroom Communication Platform
-- Secure login, class joining approval, group chat, material sharing  
-- Tech: HTML, CSS, JavaScript, Firebase  
 
-### 🚗 Vehicle Renting System
-- Full-stack vehicle renting platform  
-- Tech: HTML, Tailwind CSS, JavaScript, Supabase  
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaxitJayswal&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaxitJayswal&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaxitJayswal&layout=compact&theme=radical" height="160"/>
-</p>
+### Personal Portfolio Live Demo
+React, Vite, JavaScript
+• Created a modern, single-page portfolio application using React and Vite.
+• Implemented component-based layout, smooth animations, and responsive design.
+• Optimized performance and ensured cross-device compatibility 
 
 ---
 
