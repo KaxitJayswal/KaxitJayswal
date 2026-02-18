@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Kaxit Jayswal</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaxit-jayswal/">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+👋,+ I'm+Kaxit+Engineering+Jayswal;MERN+Stack+Developer;/>
