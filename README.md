@@ -21,22 +21,24 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Frontend  
-- React.js  
-- JavaScript (ES6+)  
-- HTML5 / CSS3  
-- Tailwind CSS  
+![React](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript%20(ES6+)-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss) 
 
 ### ⚙️ Backend & Database
-- Node.js  
-- Express.js  
-- MongoDB    
-- Firebase  
-- Supabase  
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
 ### 🔧 Tools  
-- Git & GitHub  
-- VS Code
-- Thunder Client
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
 
 ---
 
@@ -82,6 +84,5 @@ _React, Vite, JavaScript_
 <p align="center">
   <img src="https://github.com/KaxitJayswal/KaxitJayswal/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
 
 ⭐ If you like my projects, feel free to **star** them!
