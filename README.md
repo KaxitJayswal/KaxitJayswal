@@ -79,4 +79,10 @@ React, Vite, JavaScript
 
 ---
 
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/KaxitJayswal/KaxitJayswal/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
 ⭐ If you like my projects, feel free to **star** them!
